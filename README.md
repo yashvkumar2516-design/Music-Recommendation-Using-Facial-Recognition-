@@ -32,7 +32,3 @@ To run the app, type following command in terminal.
 - [Yash Kumar Singh]
 
 
-## Support
-
-For support, email anishkumar31804@gmail.com 
-
