@@ -29,8 +29,7 @@ To run the app, type following command in terminal.
 
 ## Authors
 
-- [Anish Kumar](https://github.com/Anishkumar31/PROJECT)
-
+- [Yash Kumar Singh]
 
 
 ## Support
